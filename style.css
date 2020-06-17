@@ -1,0 +1,17 @@
+.part1{
+    height: 150px;
+    width: 400px;
+    background-color: darkgreen;
+    padding: 200px;
+    margin: auto;
+    margin-top:200px;
+   
+}
+.part2{
+    height: 150px;
+    width: 150px;
+    background-color: crimson;
+    border-radius: 50%;
+    margin:auto;
+  
+}
